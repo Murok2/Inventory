@@ -1,0 +1,2 @@
+com/Murok/inventoryapp/test/BuildConfig.java
+ com.Murok.inventoryapp.test.BuildConfig

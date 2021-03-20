@@ -1,0 +1,4 @@
+#Mon Dec 23 16:56:00 KGT 2019
+base.0=/Users/itlabadmin/Desktop/Iman/InventoryApp/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

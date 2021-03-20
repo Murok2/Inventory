@@ -1,0 +1,2 @@
+com/minix/imanaugust/inventoryapp/ExampleUnitTest.java
+ com.minix.imanaugust.inventoryapp.ExampleUnitTest

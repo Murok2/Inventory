@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inventory App </string>
+    <string name="alert_message">After deleting item, you cant recover it!</string>
+    <string name="alert_title">Do you want to delete?</string>
+
+    <string name="action_gallery">Choose from Gallery</string>
+    <string name="action_camera">Use Camera</string>
+</resources>
